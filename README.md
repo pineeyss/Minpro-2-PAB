@@ -10,7 +10,7 @@ Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan y
 
 ## Fitur Aplikasi.
 
-#### <img width="612" height="833" alt="Tangkapan Layar 2026-02-28 pukul 00 08 02" src="https://github.com/user-attachments/assets/1dbb6e90-1c15-45fa-b41f-c309095f87aa" />
+#### 
 ##### tampilan utama Aplikasi Manajemen Katalog Menu Batagorku
 #
 
