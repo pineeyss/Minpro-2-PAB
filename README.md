@@ -6,7 +6,7 @@
 #### Mata Kuliah : Pemrograman Aplikasi Bergerak
 
 ## Deskripsi Aplikasi.
-Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan yang menampilkan berbagai jajanan seperti batagor, cilok, siomay, dan cireng dalam tampilan card yang modern dan responsif. Setiap menu dilengkapi dengan gambar, nama produk, rentang harga, dan deskripsi singkat untuk memudahkan pengguna melihat informasi secara jelas.
+Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan yang menampilkan berbagai jajanan seperti batagor, cilok, siomay, dan cirengg dalam tampilan card yang modern dan responsif. Setiap menu dilengkapi dengan gambar, nama produk, rentang harga, dan deskripsi singkat untuk memudahkan pengguna melihat informasi secara jelas.
 
 ## Fitur Aplikasi.
 
