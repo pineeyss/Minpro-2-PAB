@@ -44,21 +44,32 @@ Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan y
 ##### menu berhasil terhapus.
 #
 
-## Widget yang digunakan.
+## Widget yang Digunakan
+
 - MaterialApp
 - Scaffold
-- SliverAppBar
+- AppBar
+- Text
+- TextField
+- TextFormField
+- Form
+- Column
+- Padding
+- SizedBox
+- ElevatedButton
+- TextButton
+- IconButton
+- FloatingActionButton
+- SnackBar
+- AlertDialog
 - CustomScrollView
+- SliverAppBar
 - SliverGrid
 - Card
-- Column
+- GestureDetector
 - Container
-- Text
-- Image (asset & network)
-- TextField
-- ElevatedButton
-- FloatingActionButton
-- AlertDialog
-- SnackBar
-- Navigator
-- ChangeNotifier & Provider
+- Image.asset
+- Image.network
+- Center
+- CircularProgressIndicator
+
