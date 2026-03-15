@@ -24,13 +24,13 @@ Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan y
 ##### Menu berhasil ditambahkan.
 #
 
-#### <img width="612" height="833" alt="Tangkapan Layar 2026-02-28 pukul 00 13 50" src="https://github.com/user-attachments/assets/6ebe0b35-1cdb-4327-a86e-ca6bb666f1f8" />
+#### ![Menu List](edit_menu.png)
 ##### Fitur edit menu.
 
-#### <img width="1224" height="1666" alt="image" src="https://github.com/user-attachments/assets/f2137692-c99d-4a97-9937-4f6b2fc8db00" />
+#### ![Menu List](edit_menu.png)
 ##### disini saya ingin mengedit harga menu cireng original. 
 
-#### <img width="324" height="462" alt="image" src="https://github.com/user-attachments/assets/1be169ad-5802-4819-8ff2-f019b3fa9524" />
+#### ![Menu List](berhasil_edit.png)
 ##### harga berhasil berubah.
 #
 
