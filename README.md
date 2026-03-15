@@ -11,6 +11,7 @@
 
 ## Deskripsi Aplikasi.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Batagorku adalah aplikasi katalog menu makanan yang menampilkan berbagai jajanan seperti batagor, cilok, siomay, dan cireng dalam tampilan card yang modern dan responsif. Setiap menu dilengkapi dengan gambar, nama produk, rentang harga, dan deskripsi singkat untuk memudahkan pengguna melihat informasi secara jelas.
 
 ## Fitur Aplikasi.
@@ -57,6 +58,9 @@ Batagorku adalah aplikasi katalog menu makanan yang menampilkan berbagai jajanan
 - ChangeNotifier & Provider
 =======
 Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan yang menampilkan berbagai jajanan seperti batagor, cilok, siomay, dan cireng dalam tampilan card yang modern dan responsif. Setiap menu dilengkapi dengan gambar, nama produk, rentang harga, dan deskripsi singkat untuk memudahkan pengguna melihat informasi secara jelas.
+=======
+Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan yang menampilkan berbagai jajanan seperti batagor, cilok, siomay, dan cirengg dalam tampilan card yang modern dan responsif. Setiap menu dilengkapi dengan gambar, nama produk, rentang harga, dan deskripsi singkat untuk memudahkan pengguna melihat informasi secara jelas.
+>>>>>>> beb7d6d9a2bcf94f2b0c66cece447f844976f4e8
 
 ## Fitur Aplikasi.
 
