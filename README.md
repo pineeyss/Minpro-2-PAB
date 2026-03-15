@@ -11,17 +11,17 @@ Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan y
 ## Fitur Aplikasi.
 
 #### ![Menu List](menu_list.png)
-##### tampilan utama Aplikasi Manajemen Katalog Menu Batagorku
+##### Tampilan utama Aplikasi Manajemen Katalog Menu Batagorku
 #
 
-#### <img width="182" height="154" alt="image" src="https://github.com/user-attachments/assets/c87b80ec-aa23-41dd-9f98-48a4847b43ce" />
+#### ![Menu List](tambah.png)
 ##### Fitur tambah menu.
 
-#### <img width="1224" height="1666" alt="image" src="https://github.com/user-attachments/assets/8e12b7e9-323a-4081-97c7-36f9cb1addba" />
-##### disini saya menambahkan menu minuman "es teh" dengan memasukkan nama menu, harga menu, deskripsi menu, dan foto dari menu yang ingin di tambahkan.
+#### ![Menu List](tambah_menu.png)
+##### Disini saya menambahkan menu minuman "es teler" dengan memasukkan nama menu, harga menu, deskripsi menu, dan foto dari menu yang ingin di tambahkan.
 
-#### <img width="1224" height="1666" alt="image" src="https://github.com/user-attachments/assets/2a2fb00b-ed72-41ae-b063-e2d98aa26bf9" />
-##### menu berhasil ditambahkan.
+#### ![Menu List](berhasil_tambah.png)
+##### Menu berhasil ditambahkan.
 #
 
 #### <img width="612" height="833" alt="Tangkapan Layar 2026-02-28 pukul 00 13 50" src="https://github.com/user-attachments/assets/6ebe0b35-1cdb-4327-a86e-ca6bb666f1f8" />
