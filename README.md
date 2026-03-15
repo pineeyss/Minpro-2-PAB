@@ -25,23 +25,48 @@ Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan y
 #
 
 #### ![Menu List](edit_menu.png)
-##### Fitur edit menu.
-
-#### ![Menu List](edit_menu.png)
-##### disini saya ingin mengedit harga menu cireng original. 
+##### Fitur edit menu. Disini saya ingin mengedit harga menu cireng original. 
 
 #### ![Menu List](berhasil_edit.png)
-##### harga berhasil berubah.
+##### Harga berhasil berubah.
 #
 
-#### <img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/4f58fa8a-4205-4e1b-84f3-d1dad5dd7f23" />
+####  ![Menu List](hapus.png)
 ##### Fitur hapus menu.
 
-#### <img width="592" height="336" alt="image" src="https://github.com/user-attachments/assets/3dc83792-f417-4bdb-9873-e89d63f2f722" />
-##### saya ingin menghapus menu "es teh".
+#### ![Menu List](konfir_hapus.png)
+##### Saya ingin menghapus menu "es teler".
 
-#### <img width="1224" height="1666" alt="image" src="https://github.com/user-attachments/assets/2dcdc40a-e01a-40cf-91b6-c43ef5f46d86" />
-##### menu berhasil terhapus.
+#### ![Menu List](berhasil_hapus.png)
+##### Menu berhasil terhapus.
+#
+
+## Nilai Tambah.
+
+#### ![Menu List](lm.png)
+##### Tombol untuk Light/Dark Mode.
+
+#### ![Menu List](light.png)
+##### Tampilan saat Light Mode.
+
+#### ![Menu List](dark.png)
+##### Tampilan saat Dark Mode.
+#
+
+#### ![Menu List](login.png)
+##### Tampilan halaman Login.
+
+#### ![Menu List](regis.png)
+##### Tampilan halaman Register.
+
+#### ![Menu List](cb_regis.png)
+##### Saya mencoba membuat akun baru dengan memasukkan email dan password.
+
+#### ![Menu List](cb_login.png)
+##### Dan saya mencoba untuk login dengan akun yang sudah dibuat sebelumnya.
+
+#### ![Menu List](berhasil_login.png)
+##### Dan saya berhasil login dengan akun yang sudah di register sebelumnya.
 #
 
 ## Widget yang Digunakan
@@ -72,4 +97,3 @@ Aplikasi Manajemen Katalog Menu Batagorku adalah aplikasi katalog menu makanan y
 - Image.network
 - Center
 - CircularProgressIndicator
-
