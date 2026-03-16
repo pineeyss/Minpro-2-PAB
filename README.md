@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Minpro-1-PAB
-=======
 # Minpro-2-PAB
->>>>>>> 4e0c6133271d778fd102346b5a37a8374ef94a71
 
 #### Nama : Ravina Eka Adiya
 #### Nim : 2409116078
@@ -10,8 +6,6 @@
 #### Mata Kuliah : Pemrograman Aplikasi Bergerak
 
 ## Deskripsi Aplikasi.
-<<<<<<< HEAD
-<<<<<<< HEAD
 Batagorku adalah aplikasi katalog menu makanan yang menampilkan berbagai jajanan seperti batagor, cilok, siomay, dan cireng dalam tampilan card yang modern dan responsif. Setiap menu dilengkapi dengan gambar, nama produk, rentang harga, dan deskripsi singkat untuk memudahkan pengguna melihat informasi secara jelas.
 
 ## Fitur Aplikasi.
